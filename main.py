@@ -22,9 +22,9 @@ def Assess(a):
     elif a >= 1:
         assess = f"[6] : EHH... : {a}%"
     elif a >= 0.5:
-        assess = f"[2] : MAYBE THE NUMBER OF PEOPLE IS SO MUCH: {a}%"
+        assess = f"[7] : MAYBE THE NUMBER OF PEOPLE IS SO MUCH: {a}%"
     elif a >= 0.1:
-        assess = f"[2] : MAYBE THE NUMBER OF PEOPLE IS SO MUCH AND DONT SAD: {a}%"
+        assess = f"[8] : MAYBE THE NUMBER OF PEOPLE IS SO MUCH AND DONT SAD: {a}%"
     return assess
 
 
