@@ -2,7 +2,7 @@
 # Evaluate the probability of victory
 def EPV(B, G):
     #probability
-    S = ((1/B+1)*(1/G)+(1/G+1)*(1/B)) / 2 #"/ 2" to get average value
+    S = ((1/(B+1))*(1/G)+(1/(G+1))*(1/B)) / 2 #"/ 2" to get average value
     return S
 
 
