@@ -1,3 +1,4 @@
+[中文](https://github.com/OcFounder/LoveValueAssessment/blob/main/README-cn.md)
 # Love Value Assessment
 This tool can help you calculate your probability of winning in love.
 ## Principle
