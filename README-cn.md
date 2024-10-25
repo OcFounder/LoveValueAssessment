@@ -1,3 +1,4 @@
+[English](https://github.com/OcFounder/LoveValueAssessment/blob/main/README.md)
 # 爱价值评估
 这个工具可以帮助你计算自己在爱情方面的获胜概率，进行评估。
 ## 原理
